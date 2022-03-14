@@ -1,3 +1,4 @@
 # Base Requirements
 Django==4.0.3
 django-environ==0.8.1
+xhtml2pdf==0.2.6
